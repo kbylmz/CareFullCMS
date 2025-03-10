@@ -1,0 +1,20 @@
+# Ignore build output & compiled binaries
+bin/
+obj/
+
+# User-specific files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs, database, and environment files
+*.log
+appsettings*.json
+.env
+
+# Ignore .NET dependencies
+*.db
+node_modules/
+packages/
