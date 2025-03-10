@@ -1,6 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="3.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\..\Core\CareFullCMS.Domain\CareFullCMS.Domain.csproj" />
     <ProjectReference Include="..\..\Application\CareFullCMS.Application\CareFullCMS.Application.csproj" />
   </ItemGroup>

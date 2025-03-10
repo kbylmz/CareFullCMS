@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\CareFullCMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4578C7-37F4-49CB-8D62-757C571059DD}|src\\Infrastructure\\CareFullCMS.Infrastructure\\CareFullCMS.Infrastructure.csproj|c:\\workspace\\carefullcms\\src\\infrastructure\\carefullcms.infrastructure\\persistence\\mongo\\repositories\\contentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4578C7-37F4-49CB-8D62-757C571059DD}|src\\Infrastructure\\CareFullCMS.Infrastructure\\CareFullCMS.Infrastructure.csproj|solutionrelative:src\\infrastructure\\carefullcms.infrastructure\\persistence\\mongo\\repositories\\contentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4578C7-37F4-49CB-8D62-757C571059DD}|src\\Infrastructure\\CareFullCMS.Infrastructure\\CareFullCMS.Infrastructure.csproj|c:\\workspace\\carefullcms\\src\\infrastructure\\carefullcms.infrastructure\\persistence\\mongo\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4578C7-37F4-49CB-8D62-757C571059DD}|src\\Infrastructure\\CareFullCMS.Infrastructure\\CareFullCMS.Infrastructure.csproj|solutionrelative:src\\infrastructure\\carefullcms.infrastructure\\persistence\\mongo\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDC8FA0-DFDB-3F90-6F24-1CFC859BE40E}|src\\Presentation\\CareFullCMS.API\\CareFullCMS.API.csproj|c:\\workspace\\carefullcms\\src\\presentation\\carefullcms.api\\carefullcms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EDC8FA0-DFDB-3F90-6F24-1CFC859BE40E}|src\\Presentation\\CareFullCMS.API\\CareFullCMS.API.csproj|solutionrelative:src\\presentation\\carefullcms.api\\carefullcms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A329F5E-E940-4971-B4D8-EB9917F70B07}|src\\Application\\CareFullCMS.Application\\CareFullCMS.Application.csproj|c:\\workspace\\carefullcms\\src\\application\\carefullcms.application\\cqrs\\contents\\commands\\createcontentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A329F5E-E940-4971-B4D8-EB9917F70B07}|src\\Application\\CareFullCMS.Application\\CareFullCMS.Application.csproj|solutionrelative:src\\application\\carefullcms.application\\cqrs\\contents\\commands\\createcontentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4578C7-37F4-49CB-8D62-757C571059DD}|src\\Infrastructure\\CareFullCMS.Infrastructure\\CareFullCMS.Infrastructure.csproj|c:\\workspace\\carefullcms\\src\\infrastructure\\carefullcms.infrastructure\\persistence\\mongo\\models\\contentmongomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4578C7-37F4-49CB-8D62-757C571059DD}|src\\Infrastructure\\CareFullCMS.Infrastructure\\CareFullCMS.Infrastructure.csproj|solutionrelative:src\\infrastructure\\carefullcms.infrastructure\\persistence\\mongo\\models\\contentmongomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|c:\\workspace\\carefullcms\\src\\core\\carefullcms.domain\\interfaces\\icontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|solutionrelative:src\\core\\carefullcms.domain\\interfaces\\icontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|c:\\workspace\\carefullcms\\src\\core\\carefullcms.domain\\entities\\contents\\contentversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|solutionrelative:src\\core\\carefullcms.domain\\entities\\contents\\contentversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|c:\\workspace\\carefullcms\\src\\core\\carefullcms.domain\\entities\\contents\\contentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|solutionrelative:src\\core\\carefullcms.domain\\entities\\contents\\contentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|c:\\workspace\\carefullcms\\src\\core\\carefullcms.domain\\entities\\contents\\contentfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|solutionrelative:src\\core\\carefullcms.domain\\entities\\contents\\contentfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|c:\\workspace\\carefullcms\\src\\core\\carefullcms.domain\\entities\\contents\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1232D7A5-5342-4EF8-9742-84E77627F0F4}|src\\Core\\CareFullCMS.Domain\\CareFullCMS.Domain.csproj|solutionrelative:src\\core\\carefullcms.domain\\entities\\contents\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CareFullCMS.API",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Presentation\\CareFullCMS.API\\CareFullCMS.API.csproj",
+              "RelativeDocumentMoniker": "src\\Presentation\\CareFullCMS.API\\CareFullCMS.API.csproj",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Presentation\\CareFullCMS.API\\CareFullCMS.API.csproj",
+              "RelativeToolTip": "src\\Presentation\\CareFullCMS.API\\CareFullCMS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T17:48:42.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateContentCommand.cs",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Application\\CareFullCMS.Application\\CQRS\\Contents\\Commands\\CreateContentCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\CareFullCMS.Application\\CQRS\\Contents\\Commands\\CreateContentCommand.cs",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Application\\CareFullCMS.Application\\CQRS\\Contents\\Commands\\CreateContentCommand.cs",
+              "RelativeToolTip": "src\\Application\\CareFullCMS.Application\\CQRS\\Contents\\Commands\\CreateContentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:30:50.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContentRepository.cs",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Interfaces\\IContentRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CareFullCMS.Domain\\Interfaces\\IContentRepository.cs",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Interfaces\\IContentRepository.cs",
+              "RelativeToolTip": "src\\Core\\CareFullCMS.Domain\\Interfaces\\IContentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:26:33.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\MongoDbContext.cs",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\MongoDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:25:18.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContentRepository.cs",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\Repositories\\ContentRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\Repositories\\ContentRepository.cs",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\Repositories\\ContentRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\Repositories\\ContentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:24:52.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContentMongoModel.cs",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\Models\\ContentMongoModel.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\Models\\ContentMongoModel.cs",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\Models\\ContentMongoModel.cs",
+              "RelativeToolTip": "src\\Infrastructure\\CareFullCMS.Infrastructure\\Persistence\\Mongo\\Models\\ContentMongoModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:24:05.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContentStatus.cs",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentStatus.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentStatus.cs",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentStatus.cs",
+              "RelativeToolTip": "src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:18:48.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContentVersion.cs",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentVersion.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentVersion.cs",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentVersion.cs",
+              "RelativeToolTip": "src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:18:14.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContentField.cs",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentField.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentField.cs",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentField.cs",
+              "RelativeToolTip": "src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\ContentField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:17:40.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\Content.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\Content.cs",
+              "ToolTip": "C:\\workspace\\CareFullCMS\\src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\Content.cs",
+              "RelativeToolTip": "src\\Core\\CareFullCMS.Domain\\Entities\\Contents\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:05:19.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
